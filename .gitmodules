@@ -1,0 +1,3 @@
+[submodule "python_tracklist_processor"]
+	path = python_tracklist_processor
+	url = git@github.com:VasiliiGeneralov/python_tracklist_processor.git
